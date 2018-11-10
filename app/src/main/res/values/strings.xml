@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockScissorPaper</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="HumanChoice">Human Choice</string>
+    <string name="ComputerChoice">Computer Choice</string>
+    <string name="Score">"Score : Human  0   Computer  0  "</string>
+    <string name="Rock">Rock</string>
+    <string name="Scissors">Scissors</string>
+    <string name="Paper">Paper</string>
+</resources>
